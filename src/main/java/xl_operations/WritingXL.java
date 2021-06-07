@@ -18,6 +18,7 @@ public class WritingXL {
 				{ 103, "David", "Engineer" } };
 		
 		//using for loop
+		//Just for example
 		
 		int rows=empdata.length;
 		int cols=empdata[0].length;
